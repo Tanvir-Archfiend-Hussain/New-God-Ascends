@@ -3,6 +3,16 @@ body {
   background-size: 500px 600px;
 }
 
-img {
-  transform: translate(50%, 50%);
+#mathsPic {
+  transform: translate(10%, 20%);
+}
+
+#Chickpease0245682 {
+  width: 500px;
+  transform: translate(20%, 50%);
+}
+
+#ChickpeaseX0212465 {
+  width: 500px;
+  transform: translate(20%, 90%);
 }/*# sourceMappingURL=style.css.map */
