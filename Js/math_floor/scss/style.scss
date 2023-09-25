@@ -1,4 +1,8 @@
 body {
   background: url(https://upload.wikimedia.org/wikipedia/commons/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg);
-  background-size: auto;
+  background-size: 1200px 800px;
+}
+
+img {
+  transform: translate(50%, 50%);
 }
