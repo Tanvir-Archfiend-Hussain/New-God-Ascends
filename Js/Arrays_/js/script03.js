@@ -6,6 +6,3 @@ const Fruits = [
 ];
 
 Fruits.push("thai boy", "philipenes twink boy");
-
-console.log(Fruits[5]);
-console.log(Fruits[0]);
